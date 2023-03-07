@@ -1,0 +1,10 @@
+# NAME: TVBAnywhere
+# AUTHOR: digitcloud
+# REPO: https://github.com/digitcloud/ruleset/TVBAnywhere.list
+
+DOMAIN,tvbtracking.azurewebsites.net
+DOMAIN-SUFFIX,bigbigchannel.com.hk
+DOMAIN-SUFFIX,bigbigshop.com
+DOMAIN-SUFFIX,tvbanywhere.com
+DOMAIN-SUFFIX,tvbanywhere.com.sg
+DOMAIN-SUFFIX,tvbeventpower.com.hk
