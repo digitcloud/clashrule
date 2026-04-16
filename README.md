@@ -4,7 +4,7 @@
 
 ## 一把梭
 
-打开[肥羊订阅转换前端](https://sub.v1.mk/)，填入必要信息（如图所示），用就完事了[![pSyBGUe.png](https://camo.githubusercontent.com/b65b6eb88a1369da65dc5cdf446849c31e3d6e56d5e6084715211280b6bd544b/68747470733a2f2f73312e617831782e636f6d2f323032332f30322f30342f705379424755652e706e67)](https://imgse.com/i/pSyBGUe)[![zULXWt.png](https://camo.githubusercontent.com/98df1d690e4b4f149d61df1c56aeb74b3ac08291629722148e7e611091da2fd6/68747470733a2f2f73312e617831782e636f6d2f323032322f31312f32382f7a554c5857742e706e67)](https://imgse.com/i/zULXWt)
+打开[肥羊订阅转换前端](https://sub.v1.mk/)，填入必要信息（如图所示），用就完事了
 
 ------
 
